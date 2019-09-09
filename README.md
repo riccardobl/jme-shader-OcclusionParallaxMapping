@@ -56,3 +56,7 @@ void main(){
   outFragColor=texture(m_DiffuseMap,newTexCoord);
 }
 ```
+
+
+Example implementation in PBRLighting
+https://github.com/riccardobl/jme-shader-OcclusionParallaxMapping/tree/master/Materials/OcclusionParallax
